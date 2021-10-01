@@ -1,0 +1,154 @@
+
+body {
+
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+
+
+}
+
+h1  {
+
+color:  #66BFBF;
+font-size: 4em;
+font-family: 'Merriweather', serif;
+margin: 50px auto 0 auto;
+
+}
+
+h2  {
+
+  font-size: 2.5rem;
+  color:  #66BFBF;
+
+}
+
+
+
+h3 {
+
+  color: #11999E;
+
+
+}
+
+a {
+
+  color: #11999E;
+}
+
+
+p {
+
+  font-weight: normal;
+
+}
+
+.top-container {
+
+background-color: #E8F6EF;
+padding-top: 50px;
+
+}
+
+
+
+.bottom-container {
+
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.cloud1 {
+
+  position: relative;
+  left: 200px;
+
+}
+
+.cloud2 {
+
+  position: absolute;
+
+}
+
+.skill-row {
+
+    margin:100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    clear:none;
+}
+
+hr {
+  border:none;
+  border-top: 12px dotted #EAF6F6;
+  height:1px;
+  width:5%;
+}
+
+.pic1 {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+.chilly {
+
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-top: 30px;
+  border-radius: 30%;
+  padding-left: 30px;
+
+}
+
+
+.pix {
+
+  width: 15%;
+}
+
+
+.btn {
+
+  display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-bottom: 20px;
+  }
+
+  .btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+
+.copy {
+color: white;
+}
+
+
+
+.footer-link {
+padding-left: 20px;
+font-size: 20px;
+color: #11999E;
+}
